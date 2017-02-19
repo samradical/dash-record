@@ -1,0 +1,32 @@
+{
+  "name": "@samelie/dash-record",
+  "description": "Retreive the sidx of a youtube video from the id.",
+  "homepage": "https://github.com/samelie/dash-record/",
+  "author": "Sam Elie <samradelie@gmail.com>",
+  "version": "0.5.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samelie/dash-record.git",
+    "web": "https://github.com/samelie/dash-record/"
+  },
+  "main": "index.new.js",
+  "dependencies": {
+    "bluebird": "^3.2.1",
+    "xhr-request": "^1.0.1",
+  },
+  "keywords": [
+  ],
+  "bugs": {
+    "url": "https://github.com/samelie/dash-record/issues"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/samelie/dash-record/raw/master/LICENSE"
+    }
+  ],
+  "devDependencies": {}
+}
